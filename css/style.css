@@ -1,0 +1,25 @@
+ul, li {
+  list-style: none;
+}
+li{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.shirts {
+  display: inline-block;
+
+}
+.shirts li{
+  display: inline-block;
+
+}
+.shirts img{
+  height: 100px;
+
+};
+.categories {
+  display: inline-block;
+}
+.categories li{
+  display: inline-block;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id":"squared",
+    "desc":"100% хлопок мерч Cartoon Network - Время Приключений!",
+    "price":"35$",
+    "img":"img/shirts/1.jpg"
+  },
+  {
+    "id":"jake1",
+    "desc":"100% хлопок мерч Cartoon Network - Время Приключений!",
+    "price":"35$",
+    "img":"img/shirts/2.jpg"
+  },
+  {
+    "id":"marceline1",
+    "desc":"100% хлопок мерч Cartoon Network - Время Приключений!",
+    "price":"35$",
+    "img":"img/shirts/3.jpg"
+  },
+  {
+    "id":"what",
+    "desc":"100% хлопок мерч Cartoon Network - Время Приключений!",
+    "price":"35$",
+    "img":"img/shirts/4.jpg"
+  },
+  {
+    "id":"finnJake",
+    "desc":"100% хлопок мерч Cartoon Network - Время Приключений!",
+    "price":"35$",
+    "img":"img/shirts/5.jpg"
+  },
+  {
+    "id":"brownShirt",
+    "desc":"есть с длинным рукавом        М-XXL        М-057",
+    "price":"36$",
+    "img":"img/shirts/6.jpg"
+  },
+  {
+    "id":"greenShirt",
+    "desc":"есть с длинным рукавом      М-XXL        М-057",
+    "price":"36$",
+    "img":"img/shirts/7.jpg"
+  }
+]

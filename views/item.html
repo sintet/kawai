@@ -1,0 +1,9 @@
+<ul class="shirts">
+  <li ng-repeat="item in list">
+    <a ng-href="#/home/{{item.name}}/{{item.id}}">
+      {{item.id}}
+      <img ng-src="{{item.img}}" alt="" />
+    </a>
+  </li>
+</ul>
+<div ui-view></div>
