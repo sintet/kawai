@@ -1,6 +1,6 @@
 <ul class="shirts">
   <li ng-repeat="item in list">
-    <a ng-href="#/home/{{item.name}}/{{item.id}}">
+    <a ui-sref="home.item.id({id:item.id})">
       {{item.id}}
       <img ng-src="{{item.img}}" alt="" />
     </a>

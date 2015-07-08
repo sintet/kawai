@@ -1,6 +1,7 @@
 var app = angular.module('app',[
   'ui.router'
 ])
+
 app.config(function($stateProvider, $urlRouterProvider){
       $urlRouterProvider.otherwise("/home")
       $stateProvider
@@ -23,7 +24,8 @@ app.config(function($stateProvider, $urlRouterProvider){
             url: "/:id",
             templateUrl:"views/item.detail.html",
             controller:function ($scope, $http, $stateParams){
-                $scope.id=$stateParams.id
+                $scope.id=$stateParams.id;
+
               }
           })
 

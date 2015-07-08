@@ -23,3 +23,10 @@ li{
 .categories li{
   display: inline-block;
 }
+.detail>*{
+  display: inline-block;
+}
+.detail img{
+
+  height: 300px;
+}
